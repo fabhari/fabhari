@@ -39,6 +39,4 @@ I am a senior-focused engineer specializing in performance optimization, type-sa
 
 <br />
 
-<div align="center">
-  <i>"Simplicity is the soul of efficiency." — Let's build something scalable together.</i>
-</div>
+
